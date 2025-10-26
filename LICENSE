@@ -1,42 +1,46 @@
 The K-Systems Foundational License
 
-Document: KSL-Master-v1.1 (Amended)
+Document: KSL-Master-v1.3 (Expanded)
 Author: Brendon Joseph Kelly
 Framework: K-Systems and Securities | QCOMM | Omega | Sovereign Systems
 
-This document outlines the definitive, non-negotiable terms governing all interaction with the "K-Systems Foundational Framework" and its associated materials.
+Preamble
+
+This document is a binding, non-negotiable legal instrument. It defines the absolute terms governing any and all interaction with the "K-Systems Foundational Framework." Accessing, reading, or possessing The Work in any form constitutes a direct, unconditional acceptance of all terms specified herein. This license supersedes all conventional and prior agreements, treaties, or understandings regarding intellectual property.
 
 Section 1: Definitions
 
-1.1. "The Work": Refers to the "K-Systems Foundational Framework" and all associated intellectual property created by the Author, including but not limited to all master documents, doctrinal texts, scientific principles (e.g., Kharnita Mathematics, Harmonic Reality Theory), technological architectures (e.g., K-Systems Technology Stack), strategic applications (e.g., Project MIDAS, K-IDF), mathematical proofs, conceptual code, and any and all related materials published in the public "Showcase" repository or secured in the private "Vault" repository.
+1.1. "The Work": Refers to the "K-Systems Foundational Framework" and all associated intellectual property created by The Author. This definition is all-encompassing, including but not limited to: all master documents, doctrinal texts, scientific principles (e.g., Kharnita Mathematics, Harmonic Reality Theory), technological architectures (e.g., K-Systems Technology Stack), strategic applications (e.g., Project MIDAS, K-IDF), mathematical proofs, conceptual code, firmware, software, hardware blueprints, and any and all related materials, whether published in the public "Showcase" repository or secured in the private "Vault" repository. This also includes all derivatives, translations, interpretations, and expressions of The Work in any medium, now known or hereafter devised.
 
-1.2. "The Author": Refers to Brendon Joseph Kelly, the sole creator and arbiter of The Work.
+1.2. "The Author": Refers to Brendon Joseph Kelly, the sole creator, sovereign owner, and final arbiter of The Work. The Author retains the exclusive and perpetual right to interpret, modify, and enforce the terms of this License.
 
-1.3. "Licensee": Refers to any individual, entity, corporation, government, or artificial intelligence that accesses, reads, reviews, downloads, or in any way interacts with The Work.
+1.3. "Licensee": Refers to any individual, entity, corporation, government, non-governmental organization, artificial intelligence, or any agent acting on their behalf, whether human, artificial, or programmatic, that accesses, reads, reviews, downloads, or in any way interacts with The Work, whether such interaction is intentional or incidental.
 
 Section 2: Grant of Limited, Revocable License
 
-The Author hereby grants to the Licensee a limited, revocable, non-exclusive, non-transferable, royalty-free license for the sole and express purpose of:
+To facilitate academic curiosity and preliminary review only, The Author hereby grants to the Licensee a limited, revocable, non-exclusive, non-transferable, royalty-free license for the sole and express purposes detailed below:
 
-Reading and Reviewing The Work for personal understanding.
+2.1. Reading and Reviewing: The Licensee may read and review The Work for personal understanding and private, internal educational purposes. This right does not extend to public dissemination or re-hosting of The Work.
 
-Academic Analysis and scholarly critique, provided that all such analysis properly and fully attributes The Work and The Author.
+2.2. Academic Analysis: The Licensee may engage in scholarly critique and analysis, provided that all such analysis properly and fully attributes The Work and The Author. Such analysis must not be used in grant proposals, funding applications, or any materials seeking to secure capital or resources based on the principles of The Work.
 
-Citation in academic or research publications, subject to the restrictions in Section 3.
+2.3. Citation: The Licensee may cite The Work in academic or research publications. Such citation must be in accordance with standard academic practice and must not misrepresent The Work or its principles. Citation does not imply endorsement, validation, or the grant of any further rights.
+
+2.4. No Other Rights: All rights not expressly and unambiguously granted in this Section 2 are reserved by The Author. Any ambiguity shall be interpreted in favor of The Author.
 
 Section 3: General Restrictions and Prohibitions
 
-All rights not explicitly granted in Section 2 are reserved. Except as explicitly provided for in Section 4, the following activities are unconditionally prohibited:
+The following prohibitions are absolute, universal, and apply to all Licensees not explicitly exempted under Section 4. Any breach of these restrictions constitutes a material violation of this License and an immediate infringement of The Author's rights.
 
-3.1. No Implementation: The Licensee is prohibited from implementing, in whole or in part, any principle, technology, or architecture described in The Work.
+3.1. No Implementation: The Licensee is strictly prohibited from implementing, in whole or in part, any principle, technology, or architecture described in The Work. This includes, but is not limited to, any attempt to build, fabricate, write code for, or otherwise operationalize The Work, whether for testing, research, deployment, or any other purpose.
 
-3.2. No Simulation: The Licensee is prohibited from creating or running any physical or digital simulation based on the scientific, mathematical, or technological models contained within The Work.
+3.2. No Simulation: The Licensee is strictly prohibited from creating or running any physical or digital simulation based on the scientific, mathematical, or technological models contained within The Work. This prohibition extends to all forms of computational modeling, including but not limited to, quantum simulations, neural network modeling, finite element analysis, or any "digital twin" that attempts to model the behavior or principles of The Work.
 
-3.3. No Reverse-Engineering: The Licensee is prohibited from reverse-engineering, decompiling, or attempting to derive the private operational logic (contained in the "Vault") from the public-facing principles (in the "Showcase").
+3.3. No Reverse-Engineering: The Licensee is strictly prohibited from reverse-engineering, decompiling, or attempting to derive the private operational logic (contained in the "Vault") from the public-facing principles (in the "Showcase"). This includes any form of cryptanalysis, protocol analysis, "black-box" testing, or any other method designed to infer the underlying operational logic, mathematical proofs, or secured data structures.
 
-3.4. No Commercial, Governmental, or Military Use: The Licensee is prohibited from utilizing The Work for any commercial, governmental, or military purpose, including deployment in official hardware or adversarial systems.
+3.4. No Commercial, Governmental, or Military Use: The Licensee is strictly prohibited from utilizing The Work for any commercial, governmental, or military purpose. This prohibition is total and includes internal research and development (R&D), strategic planning, doctrine formation, economic modeling, or any application that seeks to gain a competitive, strategic, or operational advantage.
 
-3.5. No Derivative Works: The Licensee is prohibited from creating any derivative works based on The Work.
+3.5. No Derivative Works: The Licensee is strictly prohibited from creating any derivative works based on The Work. This includes creating translations, new software, new hardware, or new scientific papers that build upon, extend, or modify the core principles of The Work, as any such creation is considered a protected and wholly-owned extension of The Work itself.
 
 Any of the above actions, by any entity other than those specified in Section 4, require a separate, formal, binding, and physically executed "Crown License" with The Author.
 
@@ -44,37 +48,43 @@ Section 4: Limited Exception for United States Department of Defense
 
 Notwithstanding the prohibitions in Section 3, a limited, conditional exception is made exclusively for the United States Department of Defense (DoD) and its designated agencies.
 
-4.1. Conditional Grant of License: The DoD is granted a conditional license to conduct verification testing and implementation of The Work, including in official hardware and strategic systems.
+4.1. Conditional Grant of License: This conditional license is a specific, limited waiver of prohibitions 3.1, 3.2, 3.3, and 3.4, granted solely to the DoD for the express purpose of national security verification and strategic implementation, contingent upon the activation prerequisites in Section 4.2.
 
-4.2. Prerequisites to Activation: This license is contingent upon and activated by the mutual execution of a formal "Implementation Accord" between The Author and the DoD, which shall include the payment of a Security Deposit by the DoD to The Author. The purpose of this deposit is to secure The Author's intellectual property and ensure The Author's direct participation and oversight in the correct implementation of the framework.
+4.2. Prerequisites to Activation: This license is contingent upon and activated by the mutual execution of a formal "Implementation Accord" between The Author and the DoD. This Accord is a separate, binding legal instrument that will detail the full scope of collaboration, operational security protocols, and the precise terms of The Author's direct participation and oversight. Activation requires the payment of a Security Deposit by the DoD to The Author. This deposit is non-refundable and serves as consideration for the activation of this license, the securing of The Author's intellectual property, and the extraordinary value of the transferred IP.
 
-4.3. Encryption Suite: Upon activation of the Accord, the DoD shall receive the complete K-Systems encryption suite for its use at no cost.
+4.3. Encryption Suite: Upon activation of the Accord, the DoD shall receive the complete K-Systems encryption suite for its use at no cost. This suite represents a fundamental paradigm shift in cryptography, rendering conventional decryption methods obsolete. Its provision at no cost is a strategic concession to ensure the immediate security of United States defense and intelligence communications.
 
-4.4. Resale Rights and Profit Distribution: The DoD is granted the exclusive right to sell or license the K-Systems encryption suite to allied foreign nations, as it sees fit. All profits generated from such sales shall be distributed according to the following, non-negotiable mandate:
-* 80% (Eighty Percent) shall be returned to the United States Treasury to be applied directly to American infrastructure projects and the elimination of national debt.
-* 15% (Fifteen Percent) shall be paid to K-Systems.
-* 5% (Five Percent) shall be paid into a trust established in the name of Elizabeth Kelly.
+4.4. Resale Rights and Profit Distribution: The DoD is granted the exclusive right to sell or license the K-Systems encryption suite to allied foreign nations, as it sees fit. This right is a strategic tool to strengthen alliances and generate national revenue. All profits generated from such sales shall be distributed according to the following, non-negotiable mandate:
+* 80% (Eighty Percent) shall be returned to the United States Treasury, to be auditably and directly applied to American infrastructure projects and the elimination of national debt.
+* 15% (Fifteen Percent) shall be paid to K-Systems for ongoing support, research, and development.
+* 5% (Five Percent) shall be paid into a permanent, irrevocable trust established in the name of Elizabeth Kelly.
 
-4.5. Author Royalties: The Author shall receive a 1% (One Percent) royalty on the total value of all contracts and sub-contracts awarded by the DoD or any other entity in relation to the implementation, deployment, sale, or maintenance of The Work or any of its components.
+4.5. Author Royalties: The Author shall receive a 1% (One Percent) royalty on the total, gross, top-line value of all contracts and sub-contracts awarded by the DoD or any other entity in relation to the implementation, deployment, sale, or maintenance of The Work or any of its components. This royalty applies regardless of the vendor, agency, or mechanism of award, ensuring The Author is compensated for the foundational value provided.
 
-4.6. Exclusivity: This exception is non-transferable and applies only to the United States Department of Defense. No other domestic or foreign entity, government, or corporation may test, simulate, or implement The Work without a separate, explicit license from The Author.
+4.6. Exclusivity: This exception is singular and non-transferable. It applies only to the United States Department of Defense. Any attempt by the DoD to sub-license or transfer these rights to a non-designated entity (e.g., a non-allied nation or a private corporation for non-DoD purposes) is a material breach of this license and will trigger the penalties outlined in Section 5.
 
-Section 5: Intellectual Property and Reservation of Rights
+Section 5: Enforcement and Violations
 
-5.1. The Work is the sole and exclusive intellectual property of The Author.
+5.1. Any misuse, violation, or unauthorized implementation of The Work, in contravention of the terms specified in this License, is per se an act of intellectual property theft, an act of espionage, and shall be considered a direct and existential threat to the national security of the United States. This applies to all Licensees, domestic or foreign, corporate or individual.
 
-5.2. This License does not constitute a sale, transfer, or waiver of any of The Author's sovereign rights, copyrights, patents, or trade secrets.
+5.2. The United States Department of Defense is contractually bound and authorized by this License to act as the primary enforcement arm. Penalties, enforcement actions, and remedies for such violations will be determined and executed at the discretion of the DoD in accordance with its national security mandate. This determination is not subject to conventional judicial review and may include, but is not limited to, asset seizure, injunctions, and other measures deemed necessary to protect national security.
 
-5.3. The Author explicitly reserves all rights to The Work, including all core proprietary assets, source code, mathematical proofs, and operational doctrines secured within the private "Vault" repository.
+Section 6: Intellectual Property and Reservation of Rights
 
-Section 6: Governing Law and Jurisdiction
+6.1. The Work is the sole and exclusive intellectual property of The Author. This ownership is absolute, perpetual, and extends to all manifestations of The Work, known or unknown.
 
-6.1. This License and all matters arising from it shall be governed exclusively by the principles of Sovereign Crown Law as codified within the K-Systems Doctrinal Library.
+6.2. This License does not constitute a sale, transfer, or waiver of any of The Author's sovereign rights, copyrights, patents, or trade secrets. No action by the Licensee, including academic review or citation, shall be construed as creating any implied license, joint ownership, or "fair use" claim.
 
-6.2. The Licensee agrees that any conventional legal or jurisdictional frameworks are superseded by the terms and governing law specified herein.
+6.3. The Author explicitly reserves all rights to The Work, including all core proprietary assets, source code, mathematical proofs, and operational doctrines secured within the private "Vault" repository. The "Vault" is a classified, proprietary-grade asset. Its existence is acknowledged, but its contents are not subject to review, discovery, or audit by any party other than The Author and designated partners under the 'Implementation Accord'.
 
-Section 7: Acceptance of Terms
+Section 7: Governing Law and Jurisdiction
 
-7.1. The Work is provided "AS IS" without warranty of any kind.
+7.1. This License and all matters arising from it shall be governed exclusively by the principles of Sovereign Crown Law as codified within the K-Systems Doctrinal Library. This framework is the sole authority for interpreting and adjudicating this License, subject to the enforcement provisions outlined in Section 5.
 
-7.2. By accessing, downloading, reading, or otherwise interacting with The Work, the Licensee provides their full and unconditional consent and agreement to be bound by every term and restriction contained within this License.
+7.2. The Licensee, by accessing The Work, performs a "click-wrap" acceptance, thereby submitting to this exclusive jurisdiction. The Licensee explicitly waives any and all rights to challenge this jurisdiction in any other court or tribunal, whether national or international.
+
+Section 8: Acceptance of Terms
+
+8.1. The Work is provided "AS IS," "WHERE IS," and "WITH ALL FAULTS." The Author makes no warranties, express or implied, regarding its fitness for any purpose, its non-infringement, its merchantability, or its accuracy.
+
+8.2. By accessing, downloading, reading, or otherwise interacting with The Work, the Licensee provides their full, unconditional, and non-refutable consent and agreement to be bound by every term and restriction contained within this License. This action constitutes a binding digital signature. If the Licensee (or the entity they represent) does not agree to be bound by every term, their sole recourse is to immediately cease all access to, and destroy any and all copies of, The Work.
